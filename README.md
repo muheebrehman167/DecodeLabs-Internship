@@ -28,13 +28,13 @@ cd todo-list-python
 python todo_gui.py
 ```
  
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Object-Oriented Programming (classes, methods, self)
 - GUI development with Tkinter
 - Data persistence using JSON
 - Event-driven programming and lambda functions
 - Separation of concerns (Model-View-Controller)
  
-## 👤 Author
+## Author
 **Muheeb ur Rehman**
 Python Intern | DecodeLabs | Batch 2026
