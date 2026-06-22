@@ -28,7 +28,7 @@ A professional desktop Expense Tracker application built with Tkinter, featuring
 
 ## Technologies Used
 
-* Python 3.x
+* Python 3
 * Tkinter (GUI — standard library)
 * JSON (data persistence — standard library)
 * Datetime (timestamps — standard library)
