@@ -2,7 +2,7 @@
 ============================================================
 PROJECT 1 (ADVANCED): TO-DO LIST MANAGER - GUI EDITION
 ============================================================
-Organization : DecodeLabs Industrial Training
+Organization : DecodeLabs
 Batch        : 2026
 Developer    : Muheeb-ur-Rehman
 Description  : A professional desktop To-Do List application
