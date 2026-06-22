@@ -4,14 +4,14 @@ PROJECT 1 (ADVANCED): TO-DO LIST MANAGER - GUI EDITION
 ============================================================
 Organization : DecodeLabs Industrial Training
 Batch        : 2026
-Developer    : Faraz
+Developer    : Muheeb-ur-Rehman
 Description  : A professional desktop To-Do List application
                built with Tkinter. Features include adding,
                completing, deleting, and editing tasks, task
                counters, persistent storage using JSON, and
                a modern, styled user interface.
 
-Tech Stack   : Python 3.x, Tkinter (standard library),
+Tech Stack   : Python, Tkinter (standard library),
                JSON (standard library)
 ============================================================
 """
